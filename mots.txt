@@ -1,0 +1,15 @@
+chat
+chien
+ordinateur
+python
+programmation
+souris
+clavier
+smartphone
+bureau
+fenêtre
+cuisine
+étagère
+lampe
+chapeau
+chaussure
